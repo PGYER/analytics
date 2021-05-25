@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6dd9a60a-d2bc-44af-9c16-85693314d1d2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.sha1" afterDir="false" />
-    </list>
+    <list default="true" id="6dd9a60a-d2bc-44af-9c16-85693314d1d2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf />
@@ -32,16 +26,18 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="12" />
-    <option name="y" value="-865" />
-    <option name="width" value="1400" />
-    <option name="height" value="759" />
+    <option name="x" value="-260" />
+    <option name="y" value="-1055" />
+    <option name="width" value="1920" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -71,8 +67,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -105,13 +99,21 @@
       <option name="presentableId" value="Default" />
       <updated>1609985721212</updated>
     </task>
+    <task id="LOCAL-00001" summary="新版本5.1.0">
+      <created>1621411038983</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621411038983</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-260" y="-1080" width="1920" height="1080" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3434505" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.34717786" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -128,6 +130,10 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="WIFI ADB ULTIMATE" order="4" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新版本5.1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="新版本5.1.0" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.sha1">
