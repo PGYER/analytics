@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dd9a60a-d2bc-44af-9c16-85693314d1d2" name="Default Changelist" comment="Revert &quot;新版本5.1.0&quot;&#10;&#10;This reverts commit 27a27948dbe59bbab0879525017c12522f0bd3bb.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+    <list default="true" id="6dd9a60a-d2bc-44af-9c16-85693314d1d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.md5" afterDir="false" />
@@ -23,17 +23,13 @@
     <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1920" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
-  </component>
   <component name="ProjectId" id="1tf44aJyvj79bq1gyNVlcytw99W" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
@@ -59,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621937861999</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="新版本4.2.0 增加页面数据统计">
+      <created>1623206623104</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623206623104</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -100,7 +103,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Revert &quot;新版本5.1.0&quot;&#10;&#10;This reverts commit 27a27948" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;新版本5.1.0&quot;&#10;&#10;This reverts commit 27a27948" />
+    <MESSAGE value="新版本4.2.0 增加页面数据统计" />
+    <option name="LAST_COMMIT_MESSAGE" value="新版本4.2.0 增加页面数据统计" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="292" y="-1020" key="CommitChangelistDialog2" timestamp="1623206622913">
+      <screen x="-260" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="292" y="-1020" key="CommitChangelistDialog2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1623206622913" />
+    <state x="300" y="-803" key="Vcs.Push.Dialog.v2" timestamp="1623206651782">
+      <screen x="-260" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="300" y="-803" key="Vcs.Push.Dialog.v2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1623206651782" />
+    <state x="506" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1623206628183">
+      <screen x="-260" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="506" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1623206628183" />
   </component>
   <component name="masterDetails">
     <states>
