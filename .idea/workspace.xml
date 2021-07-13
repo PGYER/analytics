@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dd9a60a-d2bc-44af-9c16-85693314d1d2" name="Default Changelist" comment="">
+    <list default="true" id="6dd9a60a-d2bc-44af-9c16-85693314d1d2" name="Default Changelist" comment="新版本4.2.1 增加APP启动时间统计、页面卡顿统计">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.md5" afterDir="false" />
@@ -62,7 +62,21 @@
       <option name="project" value="LOCAL" />
       <updated>1623206623104</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="新版本4.2.1 增加APP启动时间统计、页面卡顿统计">
+      <created>1624603416037</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624603416037</updated>
+    </task>
+    <task id="LOCAL-00004" summary="新版本4.2.1 增加APP启动时间统计、页面卡顿统计">
+      <created>1624603466521</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624603466521</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -104,21 +118,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Revert &quot;新版本5.1.0&quot;&#10;&#10;This reverts commit 27a27948" />
     <MESSAGE value="新版本4.2.0 增加页面数据统计" />
-    <option name="LAST_COMMIT_MESSAGE" value="新版本4.2.0 增加页面数据统计" />
+    <MESSAGE value="新版本4.2.1 增加APP启动时间统计、页面卡顿统计" />
+    <option name="LAST_COMMIT_MESSAGE" value="新版本4.2.1 增加APP启动时间统计、页面卡顿统计" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="292" y="-1020" key="CommitChangelistDialog2" timestamp="1623206622913">
+    <state x="292" y="-1020" key="CommitChangelistDialog2" timestamp="1624603630378">
       <screen x="-260" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="292" y="-1020" key="CommitChangelistDialog2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1623206622913" />
-    <state x="300" y="-803" key="Vcs.Push.Dialog.v2" timestamp="1623206651782">
+    <state x="292" y="-1020" key="CommitChangelistDialog2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1624603630378" />
+    <state x="300" y="-803" key="Vcs.Push.Dialog.v2" timestamp="1624603488192">
       <screen x="-260" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="300" y="-803" key="Vcs.Push.Dialog.v2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1623206651782" />
-    <state x="506" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1623206628183">
+    <state x="300" y="-803" key="Vcs.Push.Dialog.v2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1624603488192" />
+    <state x="506" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624603476068">
       <screen x="-260" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="506" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1623206628183" />
+    <state x="506" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1624603476068" />
   </component>
   <component name="masterDetails">
     <states>
