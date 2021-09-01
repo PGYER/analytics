@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dd9a60a-d2bc-44af-9c16-85693314d1d2" name="Default Changelist" comment="新版本4.2.3 &#10;1、修复crash 提交中err字段空处理 &#10;2、版本更新之前log报错处理">
+    <list default="true" id="6dd9a60a-d2bc-44af-9c16-85693314d1d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.4/analytics-4.2.4.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.4/analytics-4.2.4.aar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.4/analytics-4.2.4.aar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.4/analytics-4.2.4.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.4/analytics-4.2.4.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.4/analytics-4.2.4.pom.sha1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/pgyer/analytics/4.2.3/analytics-4.2.3.aar" beforeDir="false" afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.3/analytics-4.2.3.aar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/pgyer/analytics/4.2.3/analytics-4.2.3.aar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.3/analytics-4.2.3.aar.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/pgyer/analytics/4.2.3/analytics-4.2.3.aar.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.3/analytics-4.2.3.aar.sha1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.md5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.sha1" afterDir="false" />
@@ -93,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628757420169</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="新版本4.2.3 &#10;1、修复crash 提交中err字段空处理 &#10;2、版本更新之前log报错处理">
+      <created>1628759626563</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1628759626563</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -141,18 +151,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="新版本4.2.3 &#10;1、修复crash 提交中err字段空处理 &#10;2、版本更新之前log报错处理" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="292" y="-1020" key="CommitChangelistDialog2" timestamp="1628757534584">
+    <state x="292" y="-1020" key="CommitChangelistDialog2" timestamp="1628759626386">
       <screen x="-260" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="292" y="-1020" key="CommitChangelistDialog2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1628757534584" />
-    <state x="300" y="-803" key="Vcs.Push.Dialog.v2" timestamp="1628757448687">
+    <state x="292" y="-1020" key="CommitChangelistDialog2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1628759626386" />
+    <state x="300" y="-803" key="Vcs.Push.Dialog.v2" timestamp="1628759639810">
       <screen x="-260" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="300" y="-803" key="Vcs.Push.Dialog.v2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1628757448687" />
-    <state x="506" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628757426906">
+    <state x="300" y="-803" key="Vcs.Push.Dialog.v2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1628759639810" />
+    <state x="506" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628759633271">
       <screen x="-260" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="506" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1628757426906" />
+    <state x="506" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1628759633271" />
   </component>
   <component name="masterDetails">
     <states>
