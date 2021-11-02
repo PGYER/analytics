@@ -3,14 +3,18 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dd9a60a-d2bc-44af-9c16-85693314d1d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.4/analytics-4.2.4.aar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.4/analytics-4.2.4.aar.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.4/analytics-4.2.4.aar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.4/analytics-4.2.4.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.4/analytics-4.2.4.pom.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.4/analytics-4.2.4.pom.sha1" afterDir="false" />
+    <list default="true" id="6dd9a60a-d2bc-44af-9c16-85693314d1d2" name="Default Changelist" comment="新版本4.2.4&#10;1、修复SP存储未上传数据bug">
+      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.5/analytics-4.2.5.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.5/analytics-4.2.5.aar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.5/analytics-4.2.5.aar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.5/analytics-4.2.5.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.5/analytics-4.2.5.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.2.5/analytics-4.2.5.pom.sha1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.md5" afterDir="false" />
@@ -103,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628759626563</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="新版本4.2.4&#10;1、修复SP存储未上传数据bug">
+      <created>1630478410759</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1630478410759</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -119,6 +130,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Users/works/analytics/com/pgyer/analytics/4.2.4" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -148,21 +184,32 @@
     <MESSAGE value="新版本4.2.1 增加APP启动时间统计、页面卡顿统计" />
     <MESSAGE value="新版本4.2.2 修复bug" />
     <MESSAGE value="新版本4.2.3 &#10;1、修复crash 提交中err字段空处理 &#10;2、版本更新之前log报错处理" />
-    <option name="LAST_COMMIT_MESSAGE" value="新版本4.2.3 &#10;1、修复crash 提交中err字段空处理 &#10;2、版本更新之前log报错处理" />
+    <MESSAGE value="新版本4.2.4&#10;1、修复SP存储未上传数据bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="新版本4.2.4&#10;1、修复SP存储未上传数据bug" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="292" y="-1020" key="CommitChangelistDialog2" timestamp="1628759626386">
+    <state x="292" y="-1020" key="CommitChangelistDialog2" timestamp="1635758072301">
       <screen x="-260" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="292" y="-1020" key="CommitChangelistDialog2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1628759626386" />
-    <state x="300" y="-803" key="Vcs.Push.Dialog.v2" timestamp="1628759639810">
+    <state x="292" y="-1020" key="CommitChangelistDialog2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1630478410577" />
+    <state x="292" y="-1020" key="CommitChangelistDialog2/0.25.1440.875/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1635758072301" />
+    <state x="288" y="-793" key="IDE.errors.dialog" timestamp="1635821672564">
       <screen x="-260" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="300" y="-803" key="Vcs.Push.Dialog.v2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1628759639810" />
-    <state x="506" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628759633271">
+    <state x="288" y="-793" key="IDE.errors.dialog/0.25.1440.875/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1635821672564" />
+    <state x="523" y="-816" key="RollbackChangesDialog" timestamp="1635758056140">
       <screen x="-260" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="506" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1628759633271" />
+    <state x="523" y="-816" key="RollbackChangesDialog/0.25.1440.875/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1635758056140" />
+    <state x="300" y="-803" key="Vcs.Push.Dialog.v2" timestamp="1630480920643">
+      <screen x="-260" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="300" y="-803" key="Vcs.Push.Dialog.v2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1630480920643" />
+    <state x="506" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635821676378">
+      <screen x="-260" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="506" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1630480911077" />
+    <state x="506" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.875/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1635821676378" />
   </component>
   <component name="masterDetails">
     <states>
