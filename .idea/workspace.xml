@@ -9,6 +9,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dd9a60a-d2bc-44af-9c16-85693314d1d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.3.0/analytics-4.3.0.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.3.0/analytics-4.3.0.aar.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.3.0/analytics-4.3.0.aar.sha1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.3.0/analytics-4.3.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.3.0/analytics-4.3.0.pom.md5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pgyer/analytics/4.3.0/analytics-4.3.0.pom.sha1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.md5" afterDir="false" />
@@ -40,8 +46,10 @@
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -118,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1635821716200</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="新版本4.2.8&#10;1、增加app奔溃异常捕获接口抛出&#10;2、去掉回去UUID和AndroidID&#10;3、修复一些bug">
+      <created>1650879361880</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1650879361880</updated>
+    </task>
+    <task id="LOCAL-00011" summary="新版本4.2.9&#10;1、删除一些log打印&#10;2、修改隐私相关&#10;3、修复一些bug">
+      <created>1665978256151</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1665978256151</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -190,32 +212,9 @@
     <MESSAGE value="新版本4.2.3 &#10;1、修复crash 提交中err字段空处理 &#10;2、版本更新之前log报错处理" />
     <MESSAGE value="新版本4.2.4&#10;1、修复SP存储未上传数据bug" />
     <MESSAGE value="新版本4.2.5&#10;1、修复上传数据bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="新版本4.2.5&#10;1、修复上传数据bug" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="292" y="-1020" key="CommitChangelistDialog2" timestamp="1635821716038">
-      <screen x="-260" y="-1080" width="1920" height="1080" />
-    </state>
-    <state x="292" y="-1020" key="CommitChangelistDialog2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1630478410577" />
-    <state x="292" y="-1020" key="CommitChangelistDialog2/0.25.1440.875/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1635821716037" />
-    <state x="288" y="-793" key="IDE.errors.dialog" timestamp="1635821672564">
-      <screen x="-260" y="-1080" width="1920" height="1080" />
-    </state>
-    <state x="288" y="-793" key="IDE.errors.dialog/0.25.1440.875/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1635821672564" />
-    <state x="523" y="-816" key="RollbackChangesDialog" timestamp="1635758056140">
-      <screen x="-260" y="-1080" width="1920" height="1080" />
-    </state>
-    <state x="523" y="-816" key="RollbackChangesDialog/0.25.1440.875/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1635758056140" />
-    <state x="300" y="-803" key="Vcs.Push.Dialog.v2" timestamp="1635905782298">
-      <screen x="-260" y="-1080" width="1920" height="1080" />
-    </state>
-    <state x="300" y="-803" key="Vcs.Push.Dialog.v2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1630480920643" />
-    <state x="300" y="-803" key="Vcs.Push.Dialog.v2/0.25.1440.875/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1635905782298" />
-    <state x="506" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635821723160">
-      <screen x="-260" y="-1080" width="1920" height="1080" />
-    </state>
-    <state x="506" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1630480911077" />
-    <state x="506" y="-622" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.875/-260.-1080.1920.1080@-260.-1080.1920.1080" timestamp="1635821723160" />
+    <MESSAGE value="新版本4.2.8&#10;1、增加app奔溃异常捕获接口抛出&#10;2、去掉回去UUID和AndroidID&#10;3、修复一些bug" />
+    <MESSAGE value="新版本4.2.9&#10;1、删除一些log打印&#10;2、修改隐私相关&#10;3、修复一些bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="新版本4.2.9&#10;1、删除一些log打印&#10;2、修改隐私相关&#10;3、修复一些bug" />
   </component>
   <component name="masterDetails">
     <states>
