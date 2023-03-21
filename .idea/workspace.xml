@@ -8,7 +8,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dd9a60a-d2bc-44af-9c16-85693314d1d2" name="Default Changelist" comment="" />
+    <list default="true" id="6dd9a60a-d2bc-44af-9c16-85693314d1d2" name="Default Changelist" comment="新版本4.3.3&#10;1、增加初始化可以设置fps&#10;2、增加初始化可以设置渠道号&#10;3、优化版本检查接口（去掉传入Activity）&#10;4、修复一些bug">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/pgyer/analytics/maven-metadata.xml.sha1" afterDir="false" />
+    </list>
     <list id="25e55eba-1e00-464f-9929-86c8623053af" name="Revert &quot;新版本5.1.0&quot;" comment="Revert &quot;新版本5.1.0&quot;&#10;&#10;This reverts commit 27a27948" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666594831201</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="新版本4.3.2&#10;1、修复报获取应用列表bug&#10;2、修复一些bug">
+      <created>1666952372548</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1666952372549</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -226,7 +238,8 @@
     <MESSAGE value="新版本4.2.9&#10;1、删除一些log打印&#10;2、修改隐私相关&#10;3、修复一些bug" />
     <MESSAGE value="新版本4.3.0&#10;1、删除一些log打印&#10;2、修改隐私相关&#10;3、修复一些bug" />
     <MESSAGE value="新版本4.3.1&#10;1、修复clientID问题&#10;2、修复一些bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="新版本4.3.1&#10;1、修复clientID问题&#10;2、修复一些bug" />
+    <MESSAGE value="新版本4.3.2&#10;1、修复报获取应用列表bug&#10;2、修复一些bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="新版本4.3.2&#10;1、修复报获取应用列表bug&#10;2、修复一些bug" />
   </component>
   <component name="masterDetails">
     <states>
